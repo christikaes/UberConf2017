@@ -1,7 +1,7 @@
-# AngularSummit2017
+# UberConf2017
 
 ## Angular Mobile (Progressive Web Apps)
-* Slides: https://github.com/christinakayastha/AngularSummit2017/blob/master/presentations/AngularPWA.pdf
+* Slides: https://github.com/christinakayastha/UberConf2017/blob/master/presentations/AngularPWA.pdf
 * Vanilla Progressive Web App: 
   * https://github.com/christinakayastha/ProgressiveWebAppTutorial
   * http://tinyurl.com/uberweb2017
@@ -15,24 +15,8 @@
   * https://codelabs.developers.google.com/codelabs/your-first-pwapp
   * https://codelabs.developers.google.com/codelabs/push-notifications/index.html
 
-## Angular Redux
-* Slides: https://github.com/christinakayastha/AngularSummit2017/blob/master/presentations/AngularRedux.pdf
-* Vanilla Redux App: 
-  * https://github.com/christinakayastha/StudioReduxExample
-  * http://tinyurl.com/
-* Angular Redux App: 
-  * https://github.com/christinakayastha/ngReduxTutorial
-  * http://tinyurl.com/
-* Resources:
-  *
-  * Observables:
-    * https://codepen.io/christinakayastha/pen/xrvMyJ?editors=0011
-    * https://codepen.io/christinakayastha/pen/RgXvzb?editors=1011
-    * https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences
-    * http://rxmarbles.com/
-
 ## Angular Material (Material Design)
-* Slides: https://github.com/christinakayastha/AngularSummit2017/blob/master/presentations/AngularMaterial.pdf
+* Slides: https://github.com/christinakayastha/UberConf2017/blob/master/presentations/AngularMaterial.pdf
 * Angular Material App:
   * https://github.com/christinakayastha/MusicalBox
   * http://tinyurl.com/uberbox2017 
@@ -45,7 +29,7 @@
   * https://www.youtube.com/watch?v=cQzien5H2Do
 
 ## Angular Fire (Firebase)
-* Slides: https://github.com/christinakayastha/AngularSummit2017/blob/master/presentations/AngularFire.pdf
+* Slides: https://github.com/christinakayastha/UberConf2017/blob/master/presentations/AngularFire.pdf
 * Vanilla Firebase App: 
   * https://github.com/christinakayastha/FirebaseTutorial
 * Angular Firebase App:
